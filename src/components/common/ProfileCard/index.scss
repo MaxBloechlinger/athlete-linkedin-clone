@@ -1,0 +1,21 @@
+.profile-card{
+    width: auto;
+    height: 50vh;
+    background-color: whitesmoke;
+    margin: 30px;
+    border-radius: 5px;
+    padding: 20px;
+
+    .userName{
+        font-family: system-ui;
+        color: rgba(0, 0, 0, 0.9);
+        font-weight: 600;
+        font-size: 24px;
+    }
+    .userEmail{
+        margin-top: -20px;
+        font-family: system-ui;
+        color: rgba(0, 0, 0, 0.9);
+        font-size: 16px;
+    }
+}
