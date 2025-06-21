@@ -19,7 +19,7 @@ A LinkedIn-style platform for athletes to share training updates, achievements, 
 ## 📦 Setup Instructions
 
 1. Clone the repo  
-   `git clone https://github.com/yourusername/yourrepo.git`
+   `git clone https://github.com/MaxBloechlinger/athlete-linkedin-clone`
 
 2. Install dependencies  
    `npm install`
