@@ -1,4 +1,4 @@
-# AthleteLink (or your app name)
+# Athlete LinkedIn Clone
 
 A LinkedIn-style platform for athletes to share training updates, achievements, and connect with others.
 
